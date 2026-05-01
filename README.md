@@ -5,6 +5,11 @@
 
 Repo en GitHub: https://github.com/yetsin7/Curso-de-SQL
 
+## Documentacion de referencia
+
+Consulta [DOCUMENTACION-OFICIAL.md](./DOCUMENTACION-OFICIAL.md) para estudiar
+SQL con referencias serias de PostgreSQL, SQLite y MySQL.
+
 ---
 
 ## 🇳🇮 Para estudiantes de Nicaragua (y de toda Latinoamérica)
