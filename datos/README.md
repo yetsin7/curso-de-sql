@@ -1,4 +1,4 @@
-# Carpeta `datos/` — Recursos del Libro de SQL
+# Carpeta `datos/` — Recursos del Curso de SQL
 
 Esta carpeta contiene la base de datos local de este curso. Aquí vive la copia
 independiente de `biblia_rv60.sqlite3` que usan todos los ejercicios y

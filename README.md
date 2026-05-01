@@ -1,4 +1,4 @@
-# Libro de SQL — De cero a PRO
+# Curso de SQL — De cero a PRO
 
 > Repositorio gratuito y abierto para aprender SQL desde absolutamente cero hasta nivel profesional.
 > Sin cursos de pago. Sin registros. Solo abre una terminal y empieza.
